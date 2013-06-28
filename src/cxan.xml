@@ -1,0 +1,9 @@
+<package xmlns="http://cxan.org/ns/package" id="go-usa-gov">
+    <abstract>An XQuery library module for interacting with the Go.USA.gov URL shortener API</abstract>
+    <author id="joewiz">Joe Wicentowski</author>
+    <home>http://github.com/joewiz/go-usa-gov</home>
+    <category id="libs">Libraries</category>
+    <tag>url-shortener</tag>
+    <tag>api</tag>
+    <tag>xquery</tag>
+</package>

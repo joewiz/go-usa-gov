@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="xar" name="go-url">
+    <property name="build.dir" value="build"/>
+    <target name="xar">
+        <mkdir dir="${build.dir}"/>
+        <zip basedir="src" destfile="${build.dir}/go-usa-gov-0.1.xar"/>
+    </target>
+</project>

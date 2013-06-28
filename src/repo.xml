@@ -1,0 +1,9 @@
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <author>Joe Wicentowski</author>
+    <website>https://github.com/joewiz/go-usa-gov</website>
+    <license>Apache License, Version 2.0</license>
+    <copyright>true</copyright>
+    <description>An XQuery library module for interacting with the Go.USA.gov URL shortener API</description>
+    <type>library</type>
+    <status>stable</status>
+</meta>

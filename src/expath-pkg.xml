@@ -1,0 +1,8 @@
+<package xmlns="http://expath.org/ns/pkg" name="http://go.usa.gov/api" abbrev="go-usa-gov"
+    version="0.1" spec="1.0">
+    <title>Go.USA.gov API Library for XQuery</title>
+    <xquery>
+        <namespace>http://go.usa.gov/api</namespace>
+        <file>go-usa-gov.xq</file>
+    </xquery>
+</package>
