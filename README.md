@@ -1,3 +1,5 @@
+**Note:** On September 18, 2022, the U.S. General Services Administration (GSA) will sunset Go.USA.gov. The Go.USA.gov API will become inaccessible... after August 31, 2022. Source: https://blog.usa.gov/sunsetting-go.usa.gov-frequently-asked-questions
+
 # Go.USA.gov API Library for XQuery
 
 [Go.USA.gov](http://go.usa.gov/) is a URL shortener service that lets government employees create short .gov URLs from 
